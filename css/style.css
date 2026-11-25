@@ -252,3 +252,4 @@ details summary { cursor: pointer; color: var(--brand); font-weight: 600; margin
   font-family: var(--serif); font-weight: 700; font-size: 0.85rem; line-height: 1.1; text-transform: uppercase; letter-spacing: 0.04em; }
 .logo-text:hover { color: var(--brand); }
 .logo-text .logo { height: 56px; width: auto; }
+.photo-credit { font-size: 0.78rem; color: var(--muted); margin: 0.35rem 0 0; }
